@@ -1,0 +1,15 @@
+# Security
+.env
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python junk
+**/__pycache__/
+*.pyc
+
+# IDE Settings
+.vscode/
+.DS_Store
